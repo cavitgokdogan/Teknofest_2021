@@ -9,13 +9,6 @@ import numpy as np
 import imutils
 import math
 
-"""
-    static_center_x = 160
-    static_center_y = 120
-    
-    gecen sene tanimlanmis
-"""
-
 home_pos_lat = 0
 home_pos_alt = 0
 home_pos_lon = 0
